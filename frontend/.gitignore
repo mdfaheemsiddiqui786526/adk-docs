@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.next/
+dist/
+build/
+*.pem
+.env
+.env.local
+.env.*.local
+.eslintcache
+.stylelintcache
